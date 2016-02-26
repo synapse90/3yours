@@ -1,0 +1,8 @@
+yyy_presentation:
+    resource: "@YYYPresentationBundle/Resources/config/routing.yml"
+    prefix:   /
+
+yyy_core:
+    resource: "@YYYCoreBundle/Resources/config/routing.yml"
+    prefix:   /
+

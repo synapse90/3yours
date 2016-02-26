@@ -1,0 +1,4 @@
+services:
+#    yyy_presentation.example:
+#        class: YYY\PresentationBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

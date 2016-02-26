@@ -1,0 +1,4 @@
+services:
+#    yyy_core.example:
+#        class: YYY\CoreBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
